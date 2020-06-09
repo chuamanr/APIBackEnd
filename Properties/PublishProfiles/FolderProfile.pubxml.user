@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\cristian.gacharna\Documents\Repositorios\Publicacion</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/HelpPage.css">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/Api.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/Index.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Help/ResourceModel.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Shared/_Layout.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/Web.config">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="Areas/HelpPage___/Views/_ViewStart.cshtml">
+      <publishTime>05/08/2020 16:24:27</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/EcoOplacementApi.dll">
+      <publishTime>05/28/2020 20:02:57</publishTime>
+    </File>
+    <File Include="bin/EcoOplacementApi.pdb">
+      <publishTime>05/28/2020 20:02:57</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.WebApi.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/02/2020 09:03:46</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="bin/Select.Html.dep">
+      <publishTime>03/02/2020 09:03:48</publishTime>
+    </File>
+    <File Include="bin/Select.HtmlToPdf.dll">
+      <publishTime>03/02/2020 09:03:48</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/02/2020 09:03:45</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Imagenes/Branding/descarga.png">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Imagenes/Eventos/jet20set20tony20cow1906jpg.image.550x550.jpg.jpeg">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="prueba.html">
+      <publishTime>03/02/2020 09:03:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.min.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.map">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.8.3.js">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/02/2020 09:03:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/28/2020 20:07:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
